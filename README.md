@@ -1,2 +1,2 @@
 # rm-punctutations.py
-removes punctutation in the sentences using python
+removes the punctutations in the sentences by using python
